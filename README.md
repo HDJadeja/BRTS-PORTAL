@@ -1,18 +1,19 @@
-## Getting Started
+# BRTS Portal
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Project Overview
+The BRTS Portal is a software project designed to manage and streamline the operations of a Bus Rapid Transit System (BRTS). It provides functionalities for managing various aspects of the transit system including administration, driver management, station operations, reporting, and user access control.
 
-## Folder Structure
+## Problem It Solves
+Managing a large-scale public transportation system like BRTS involves coordinating multiple components such as scheduling, driver assignments, station management. This project addresses the challenges of manual and fragmented management by providing an integrated platform that automates and simplifies these tasks. It helps improve operational efficiency, enhances communication between different departments, and provides timely reports for decision-making.
 
-The workspace contains two folders by default, where:
+## Key Features
+- Administration module for managing system users and roles.
+- Driver management including assignments and schedules.
+- Station operations management.
+- bus time reporting.
+- Bus no and route for user
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Technologies Used
+- Java for backend logic and application development.
+- MySQL for database management.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
